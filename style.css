@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h2{
+  background-color: blueviolet;
+  text-align: center;
+  font: 20px;
+}
+p{
+  text-align: left;
+  font: 14px;
+}
+*{
+  padding: 4px;
+  margin: 3%;
+}
